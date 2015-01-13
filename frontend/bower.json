@@ -1,0 +1,26 @@
+{
+  "name": "frontend",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sib0rg/nodejsawesomes",
+  "description": "Angularjs front-end with tdd in mind",
+  "main": "index.html",
+  "authors": [
+    "Shaun Brown",
+    "Simon Whiston",
+    "Alex Diaz"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "~1.3.8",
+    "angular-route": "~1.3.8",
+    "angular-resource": "~1.3.8",
+    "angularjs": "~1.3.8"
+  }
+}
